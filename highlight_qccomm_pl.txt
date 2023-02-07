@@ -1,0 +1,42 @@
+MCC-SWGR Architecture
+(1)	Cracked Glass of MCC-SWGR Room
+(2)	Gap on seal of single door MCC-SWGR Room
+
+PEDESTAL CRANE
+(1)	Vibration Switch, Anti Toe Block and Slewing Trigger Engine Switch Off (require Engineering Query)
+(2) Aktifasi switch starter_hydraulic mode di cabin
+
+STRUCTURE
+(1)	No Space at S/C Deck to accommodate load test of monorel (refer to engineering calculation)
+
+MECHANICAL
+(1)	Both Pump unit# A&B are Noisy 
+(2)	DEG Performance
+(3)	DEG’s Enclosure Leak (again)
+(4)	Level Switch of Daily Tank (not tested yet)
+(5)	N2 bottle Connection for pilot CO2 snuffing power generation enclosure improper (lead to leak)
+(6)	FWP panel facing to seaside
+(7)	Electric Starter flex Cable of FWP no enclosure
+(8)	Battery Breaker Panel JB of FWP not finalized yet
+(9)	FWP Installation Package not finalized yet
+
+ELECTRICAL
+(1)	Ampere meter incoming DEG not functioned yet due to troubleshooting in progress
+(2)	EXIT Lamp of MCC-SWGR Room broken
+(3)	MCB UPS-4A not available
+(4)	Load bank Lamp not functioned test yet
+(5)	Gemstat Outgoing Crack 
+
+INSTRUMENT
+(1)	TI Incoming& Outgoing HRU
+
+PIPING
+(1)	3 ea BV socket weld of seawater line to FW line passing
+(2)	15 ea tagging of PSV incorrect
+(3)	Diesel Fuel Coupling hose connector for Pedestal Crane and Boat landing not available
+HVAC
+(1)	No gland cable to fire dumper
+(2)	SOP HVAC at panel required
+(3)	HVAC Software not provided
+(4)	Motorized Damper broken (replacement 2 month later) 
+(5)	Humidity Vs Temperature HVAC logic mode (red line)

@@ -1,0 +1,81 @@
+1	1	Test Separator	FQI-V-001-03	Stainless Steel Flange shall be cleaning (pickling)	B	I		HERAWAN	21-Jan-23			CLOSE	25-Jan2023	HERAWAN	SH1
+2	2	Test Separator	P&ID KLA-YYA-P-PID-6007	Shall be add spetacle blind on nozzle 3 (revise P&ID)	B	P		HERAWAN	21-Jan-23			CLOSE	30-Jan2023	HERAWAN	SH1
+3	3	Test Separator	Vessel, Pipe, Support	Touch Up Painting	B	P		HERAWAN	21-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+4	4	Test Separator	Ball Valve	Handle Missing	B	P		HERAWAN	21-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+5	5	Test Separator	Line Pipe Test Separator	Flow Direction & Line No on line pipe test separator	B	P		HERAWAN	21-Jan-23			CLOSE	30-Jan2023	HERAWAN	SH1
+6	1	Atmospheric Vent	HP VENT	Touch Up Painting	B	P	NEW	Herawan	12-Jan-23			CLOSE	21-Jan2023	HERAWAN	SH1
+7	1	CO2 Snuffing	YYA-Z-008 (CO2 Snuffing NEW)	CO2 Bottle MTG Spare Already Pressurized, should be stand by position (replace with new one)	B	M	NEW	Wahyu	18-Jan-23			CLOSE	21-Jan2023	Wahyu	SH1
+8	2	CO2 Snuffing	YYA-Z-008 (CO2 Snuffing NEW)	N2 Bottle Broken, need to Replace	B	M	NEW	Albert	24-Jan-23			CLOSE	7-Feb2023	Wahyu	SH1
+9	1	Navigation Aid	YYA-NAV-002	Not Function	A	E		Nurhadi	9-Jan-23			CLOSE			SH1
+10	2	Navigation Aid	NAV AID	Change MCB Rating Nav.Aid 1 dan 2 note: MCB change to 4A (2ea)	B	E		sena	17-Jan-23			OPEN			SH1
+11	3	Navigation Aid	NAV AID	Marking cable for syncro nav aid	B	E		sena	17-Jan-23			OPEN			SH1
+12	1	Fire Water Pumps	FWP Panel	FWP Panel Facing to Handrail, concern of opearating access	B	I	NEW		4-Feb-23			OPEN			FAT PL
+13	2	Fire Water Pumps	FWP ELECTRIC STARTER	The Flex Cable of FWP have no enclosure	B	E	NEW		4-Feb-23			OPEN			FAT PL
+14	3	Fire Water Pumps	Battery Breaker Panel JB FWP	not finalized yet	B	E	NEW		4-Feb-23			OPEN			FAT PL
+15	4	Fire Water Pumps	FWP INSTALLATION PACK	not finalized yet	B	M	NEW		4-Feb-23			OPEN			FAT PL
+16	5	Fire Water Pumps	FWP	House drain cooling RAG need to directed to drip pan skid	B	M	NEW		6-Feb-23			OPEN			FAT PL
+17	6	Fire Water Pumps	FWP	PT DQC to provide bolt torque table. All pressure bolting	B	M	NEW		6-Feb-23			OPEN			FAT PL
+18	7	Fire Water Pumps	FWP	PT DQC to provide reducer for air starting inlet (customer connection 1/2 inch)	B	M	NEW		6-Feb-23			OPEN			FAT PL
+19	8	Fire Water Pumps	FWP	Terminal block (TB3 no 13-14) remote to start to be check	B	M	NEW		6-Feb-23			OPEN			FAT PL
+20	9	Fire Water Pumps	FWP	when main power supply down (230 vac 1 phs) firetrol still feed by battery. indication at the display showing battery charger malfunction	B	M	NEW		6-Feb-23			OPEN			FAT PL
+21	10	Fire Water Pumps	FWP	PT DQC supply temporary PSV still temoprary	B	M	NEW		6-Feb-23			OPEN			FAT PL
+22	11	Fire Water Pumps	FWP	company has approved vibration data in FAT activity for reference  only. Next submission asbuilt for mechanical data sheet (Delete note 28 Project Spec PHEONWJ -M-SPE-0003) 	B	M	NEW		6-Feb-23			OPEN			FAT PL
+23	12	Fire Water Pumps	FWP	touch up for all equipment	B	M	NEW		6-Feb-23			OPEN			FAT PL
+24	13	Fire Water Pumps	FWP	Air Starter function test will be done during SAT/Commissioning	B	M	NEW		6-Feb-23			OPEN			FAT PL
+25	14	Fire Water Pumps	FWP	instrument and controll shall be checked by PT DQC  and refer mechanical data sheet	B	M	NEW		6-Feb-23			OPEN			FAT PL
+26	15	Fire Water Pumps	FWP	first filling lubrication and coolant will be provide by PT DQC	B	M	NEW		6-Feb-23			OPEN			FAT PL
+27	16	Fire Water Pumps	FWP	PT DQC to add 1 terminal for earthing power cable at controller (PT DQC to be check regarding listing due to adding terminal for earthing power)	B	M	NEW		6-Feb-23			OPEN			FAT PL
+28	17	Fire Water Pumps	FWP	PT DQC to add 1 cable hole for earthing cable (M20)  (Glanc Plate Controller)	B	M	NEW		6-Feb-23			OPEN			FAT PL
+29	18	Fire Water Pumps	FWP	PT DQC to add 2 cable hole for earthing & Controll cable (M20)  (enigne local panel)	B	M	NEW		6-Feb-23			OPEN			FAT PL
+30	19	Fire Water Pumps	FWP	PT DQC to provide 2ea of M20 cable gland for earthing cable at engine local panel & controller	B	M	NEW		6-Feb-23			OPEN			FAT PL
+31	20	Fire Water Pumps	FWP	fire water shall be delivered in dismantle condition as per lifting procedure	B	M	NEW		6-Feb-23			OPEN			FAT PL
+32	21	Fire Water Pumps	FWP	special lifting to for line shaft need to be provided by PT DQC	B	M	NEW		6-Feb-23			OPEN			FAT PL
+33	1	AHU & CCU System	HVAC	Heater vs Humidity permisive (unit A&B)	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	YUSUF	SH1
+34	2	AHU & CCU System	HVAC	Contactor C9 (unit A)	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	YUSUF	SH1
+35	3	AHU & CCU System	HVAC	Air Flow Balancing	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	YUSUF	SH1
+36	4	AHU & CCU System	HVAC	Power Control 1 tidak sesuai	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	NURHADI	SH1
+37	5	AHU & CCU System	HVAC	humidity transmitter belum di test	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	YUSUF	SH1
+38	6	AHU & CCU System	HVAC	efek dari lost contact RH & Temperature belum sesusai	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	YUSUF	SH1
+39	7	AHU & CCU System	HVAC	Warna status HMI kurang contrast	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	YUSUF	SH1
+40	8	AHU & CCU System	HVAC	password HMI belum hilang	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	NURHADI	SH1
+41	9	AHU & CCU System	HVAC	Motor 2C Fire damper broken	B	M	NEW	YUSUF	24-Jan-23	Need Material (Vendor has ordered sparepart, ETA 1 March 2023)		OPEN			SH1
+42	10	AHU & CCU System	HVAC	Power Control 1 tidak sesuai design	B	M	NEW	YUSUF	24-Jan-23			CLOSE	24-Jan2023	NURHADI	SH1
+43	11	AHU & CCU System	HVAC	SOP HVAC at panel required	B	M	NEW		4-Feb-23			CLOSE	9-Feb2023	Bayu	SH1
+44	12	AHU & CCU System	HVAC	HVAC Software not provided	B	M	NEW		4-Feb-23			CLOSE	8-Feb2023	Hendro	SH1
+45	13	AHU & CCU System	HVAC	Humidity Vs Temperature HVAC logic mode (red line)	B	M	NEW		4-Feb-23			OPEN			SH1
+46	14	AHU & CCU System	HVAC	No gland cable to fire dumper	B	M	NEW		4-Feb-23			CLOSE	7-Feb2023	Bayu	SH1
+47	1	Instrument  Gas Header	GI-026-A-3/4"	U-Bolt Not Installed Yet	B	P		RIDWAN	13-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+48	2	Instrument  Gas Header	GI-023-A-3/4"	U-Bolt Not Installed Yet	B	P		RIDWAN	13-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+49	3	Instrument  Gas Header	GI-026-A-3/4" & GI-023-A-3/4"	Touch Up Painting	B	P		RIDWAN	13-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+50	1	Fuel Gas System	YYA-F-004A	Name Plate shall be install	B	M		Herawan	14-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+51	2	Fuel Gas System	YYA-F-004B	Name Plate shall be install	B	M		Herawan	14-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+52	3	Fuel Gas System		General Touch up painting on pipe, pipe support, bolt, nut, vessel	B	M		Herawan	14-Jan-23			CLOSE	30-Jan2023	HERAWAN	SH1
+53	4	Fuel Gas System		Tale hole on YYA-F-004A dan YYA-F-004B shall be filled	B	M		Herawan	14-Jan-23			CLOSE	30-Jan2023	HERAWAN	SH1
+54	5	Fuel Gas System		Plug for sampling connection must be provided	B	M		Herawan	14-Jan-23			CLOSE	30-Jan2023	HERAWAN	SH1
+55	1	Sea Water System	TI-G-001-02	TI-G-001-02 not yet install	B	M	NEW	Ridwan	20-Jan-23			OPEN			SH1
+56	2	Sea Water System	TI-G-001-01	TI-G-001-01 not yet install	B	M	NEW	Ridwan	20-Jan-23			OPEN			SH1
+57	3	Sea Water System	Tagging	Instrument tag must be provide	B	M	NEW	Ridwan	20-Jan-23			CLOSE			SH1
+58	4	Sea Water System		1/2in blind flange hypocloride injection on YYA-P-012 A and B shall be install	B	M	NEW	Ridwan	20-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+59	5	Sea Water System		Handle ball valve shall be provide	B	M	NEW	Ridwan	20-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+60	6	Sea Water System		Flow meter indicator FE-P-012 to be rotate	B	M	NEW	Ridwan	20-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+61	7	Sea Water System		General touch up painting to be done	B	M	NEW	Ridwan	20-Jan-23			CLOSE	24-Jan2023	HERAWAN	SH1
+62	8	Sea Water System	PSD / ESD Kontak	belum terinstall dan di testing (USD 12)	B	I	NEW	Sena	24-Jan-23			CLOSE	31-Jan2023	Yusuf	SH1
+63	9	Sea Water System	USD 12	Signal Belum sesuai dengan persyaratan (Monitoring)	B	I	NEW	Sena	24-Jan-23			CLOSE	31-Jan2023	Yusuf	SH1
+64	10	Sea Water System	PSLL Unit B	Perlu di kalibrasi	B	I	NEW	Sena	24-Jan-23			CLOSE	31-Jan2023	Yusuf	SH1
+65	11	Sea Water System	AARV-P-12 A & B	Leak Need Repair	B	I	NEW	Sena	24-Jan-23			CLOSE	31-Jan2023	Yusuf	SH1
+66	12	Sea Water System	YYA-P-012 A&B	Sea Water Pump Noisy	B	M	NEW	Nurhadi	4-Feb-23			OPEN			SH1
+67	13	Sea Water System	BALL VALVE 	BALL VALVE 3ea : Passing	B	P	NEW					CLOSE	7-Feb2023	HERAWAN	SH1
+68	1	Pour Point Depressant Transfer Pump	PPD Transfer Pump (YYA-P-003-03)	Tubing N2 Injection diganti menggunakan Tubing Permanen/SS	B	M	GREEN	WAHYU	11-Jan-23			CLOSE	30-Jan2023	WAHYU	SH1
+69	1	Micro Turbine Generator Package	Load Bank LB-001	Lamp not Functioned Test Yet	B	E	NEW		4-Feb-23			CLOSE	7-Feb2023	NURHADI	SH1
+70	1	Diesel Engine Generator Package	INCOMING DEG (MCC)	Metering Error not match between PM2200 	B	E	NEW	SENA	24-Jan-23		ARI WIBOWO	OPEN			SH1
+71	2	Diesel Engine Generator Package	INCOMING DEG (MCC)	DEG Metering AMP Error PM220 trigger by selector switch	B	E	NEW	SENA	24-Jan-23		ARI WIBOWO	OPEN			SH1
+72	3	Diesel Engine Generator Package	DEG	DEG PERFORMANCE	B	E	NEW	YOGI	4-Feb-23			CLOSE		8-Feb-23	SH1
+73	4	Diesel Engine Generator Package	DEG	Enclosure DEG Steal Leak	B	E	NEW	YOGI	4-Feb-23			OPEN			SH1
+74	5	Diesel Engine Generator Package	DEG	Level Switch of Daily Tank not tested yet	B	E	NEW	YOGI	4-Feb-23			CLOSE		8-Feb-23	SH1
+75	1	Pedestal Crane (Vendor Package)	Pedestal Vibration Switch	Anti Toe Block and Slewing, Triggering Engine Switch Off (require engineering query)	B	M	NEW	CPY OPERATION	4-Feb-23	(require engineering query)		OPEN			SH1
+76	2	Pedestal Crane (Vendor Package)	Pedestal Vibration Switch	Load Test of Monorail : No space at S/C Deck to accommodate load test of monorel	B	M	NEW	CPY OPERATION	4-Feb-23	Engineering Justification		OPEN			SH1
+77	1														
+78	1	LV MCC / Switchgear	Glass of Double Door MCC Room	Glass of Double Door MCC Room : Cracked	B	S	NEW	CPY OPERATION	4-Feb-23			OPEN			SH1
+79	2	LV MCC / Switchgear	Double Door MCC Room	Double Door MCC Room : Gap on Double Single Door MCC Room 	B	S	NEW	CPY OPERATION	4-Feb-23			CLOSE	8-Feb2023	BAYU	SH1
+80	3	LV MCC / Switchgear	EXIT LIGHT	EXIT LIGHT 2ea : Broken	B	I	NEW	CPY OPERATION	4-Feb-23			OPEN			SH1
+81	4	LV MCC / Switchgear	GEMSTART	GEMSTART : Outgoing Crack	B	E	NEW	CPY OPERATION	4-Feb-23			CLOSE	7-Feb2023	NURHADI	SH1
